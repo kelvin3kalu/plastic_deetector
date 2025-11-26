@@ -1,2 +1,2 @@
 0 Plastic
-1 Non Plastics
+1 Non-Plastic
